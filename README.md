@@ -4,7 +4,7 @@ Script to install profile-sync-daemon on Arch Linux. Supports Brave browser and 
 Download psd-installer.sh
 
 ```
-cd Downloads/
+cd profile-sync-daemon-installer/
 chmod +x psd-installer.sh
 bash psd-installer.sh
 ```
